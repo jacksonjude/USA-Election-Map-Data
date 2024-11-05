@@ -1,6 +1,6 @@
 timestamp,race,reportingPercent,lastName,candidateID,candidateVotes,totalVotes
-1730790683316,2024-GG-DE,0,Meyer,meyer,0,0
-1730790683316,2024-GG-DE,0,Ramone,ramone,0,0
+1730790683316,2024-GG-DE,0,Meyer,meyer,1,1
+1730790683316,2024-GG-DE,0,Ramone,ramone,0,1
 1730790683316,2024-GG-IN,0,Braun,braun,0,0
 1730790683316,2024-GG-IN,0,McCormick,mccormick,0,0
 1730790683316,2024-GG-IN,0,Rainwater,rainwater,0,0
